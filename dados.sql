@@ -12,8 +12,8 @@ INSERT INTO Prato (codPrato, tipo, nome) VALUES
   (4, 'Entrada', 'Sopa de legumes'),
   (5, 'Principal', 'Peixe grelhado com arroz');
 
-INSERT INTO CARDAPIO (codCli, nome, codBeb)
-VALUES (1, 'João Silva', 1),
+INSERT INTO CARDAPIO (codCli, nome, codBeb) VALUES 
+(1, 'João Silva', 1),
 (2, 'Maria Oliveira', 2),
 (3, 'Pedro Souza', 3),
 (4, 'Ana Costa', 4),
