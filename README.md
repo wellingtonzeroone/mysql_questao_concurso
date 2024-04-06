@@ -15,6 +15,7 @@ pratos e bebidas.</p>
 <p>III Uma SQL que mostre quantos pratos são servidos no evento de cada cliente.</p>
 <img src="https://github.com/wellingtonzeroone/mysql_questao_concurso/assets/165533130/c3fafd69-844f-414e-83d2-7caa3ce1270d" style="heigth: 300px;">
 <p>IV Uma SQL que mostre quantos pratos são servidos no cardápio do evento do cliente 3</p>
+<img src="https://github.com/wellingtonzeroone/mysql_questao_concurso/assets/165533130/d180f6e2-ae3c-4c56-aa1a-dfc40d3b22d4" style="heigth: 300px;">
 
 <h1>Vizualização dos Dados</h1>
 
