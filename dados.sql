@@ -1,4 +1,3 @@
-
 INSERT INTO Bebida (nome, descrBeb) VALUES
   ('Suco de Laranja', 'Suco natural de laranja fresca.'),
   ('Refrigerante', 'Refrigerante de cola tradicional.'),
@@ -13,13 +12,6 @@ INSERT INTO Prato (codPrato, tipo, nome) VALUES
   (4, 'Entrada', 'Sopa de legumes'),
   (5, 'Principal', 'Peixe grelhado com arroz');
 
-INSERT INTO Cliente (nome) VALUES
-  ('João Silva'),
-  ('Maria Oliveira'),
-  ('Pedro Souza'),
-  ('Ana Costa'),
-  ('Bruno Santos');
-  
 INSERT INTO CARDAPIO (codCli, nome, codBeb)
 VALUES (1, 'João Silva', 1),
 (2, 'Maria Oliveira', 2),
